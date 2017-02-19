@@ -8,3 +8,10 @@ Installing GUI program
 1. [Oh My ZSH](http://ohmyz.sh/)
 Lot of fun
 2. [autojump](https://github.com/wting/autojump)
+using `j` to `cd`
+
+# windows placing
+1.`brew cask install spectacle`
+
+# proxy
+2.`brew cask install shadowsocksx-ng`
