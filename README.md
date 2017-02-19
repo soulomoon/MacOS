@@ -1,12 +1,10 @@
-# MacOS
-Recording of my MacOS setup
-
-# Installation
-## [Brew](https://brew.sh/)
+# Installation 
+1. [Brew](https://brew.sh/)
 Installing CLI program
-## [Brew cask](https://caskroom.github.io/)
+2. [Brew cask](https://caskroom.github.io/)
 Installing GUI program
 
 # Better CL experience
-## [Oh My ZSH](http://ohmyz.sh/)
+1. [Oh My ZSH](http://ohmyz.sh/)
 Lot of fun
+2. [autojump](https://github.com/wting/autojump)
