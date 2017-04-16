@@ -15,3 +15,6 @@ using `j` to `cd`
 
 # proxy
 2.`brew cask install shadowsocksx-ng`
+
+# list of brew package
+yarn ###faster than npm
