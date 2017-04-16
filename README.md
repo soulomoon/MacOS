@@ -17,5 +17,5 @@ using `j` to `cd`
 2.`brew cask install shadowsocksx-ng`
 
 # list of brew package
-yarn : faster than npm
+yarn : faster than npm  
 diff-so-fancy : make git diff readable
