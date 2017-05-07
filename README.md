@@ -19,3 +19,4 @@ using `j` to `cd`
 # list of brew package
 yarn : faster than npm  
 diff-so-fancy : make git diff readable
+ccat : Colorizing `cat` https://github.com/jingweno/ccat
