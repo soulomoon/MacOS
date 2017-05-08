@@ -21,3 +21,4 @@ yarn : faster than npm
 diff-so-fancy : make git diff readable  
 ccat : Colorizing `cat` https://github.com/jingweno/ccat  
 tldr: 📚 Simplified and community-driven man pages http://tldr-pages.github.io/
+hub: hub helps you win at git. http://hub.github.com/
