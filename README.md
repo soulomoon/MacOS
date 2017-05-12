@@ -10,7 +10,7 @@ Lot of fun
 2. [autojump](https://github.com/wting/autojump)
 using `j` to `cd`
 3. [iterm2](https://www.iterm2.com/)
-but you have disble session-initiated window resizing
+but you have disble session-initiated window resizing to enable vim airline redraw in the right position when open vim 
 
 # windows placing
 1.`brew cask install spectacle`
