@@ -11,6 +11,9 @@ Lot of fun
 using `j` to `cd`
 3. [iterm2](https://www.iterm2.com/)
 but you have disble session-initiated window resizing to enable vim airline redraw in the right position when open vim 
+4. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)  
+highlight zsh !!
+
 
 # windows placing
 1.`brew cask install spectacle`
