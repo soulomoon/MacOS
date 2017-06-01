@@ -26,7 +26,7 @@ yarn : faster than npm
 diff-so-fancy : make git diff readable  
 ccat : Colorizing `cat` https://github.com/jingweno/ccat  
 tldr: 📚 Simplified and community-driven man pages http://tldr-pages.github.io/  
-hub: hub helps you win at git. http://hub.github.com/
-
+hub: hub helps you win at git. http://hub.github.com/  
+mycli: A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. http://mycli.net
 # BUG work around
 fixing CapsLock with [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements/issues/663)
